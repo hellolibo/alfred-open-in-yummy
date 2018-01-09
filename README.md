@@ -7,7 +7,8 @@ An Alfred v3 workflow to open up YummyFTP and connect to a site.
 
 ## Usage
 
-![][assets/demo_usage]
+![][./assets/demo_usage.png]
+![usage](https://raw.github.com/hellolibo/alfred-open-in-yummy/master/assets/demo_usage.png)
 
 ## Configuration
 
