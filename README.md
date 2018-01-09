@@ -11,7 +11,7 @@ An Alfred v3 workflow to open up YummyFTP and connect to a site.
 
 ## Configuration
 
-need set YummyFTP Path
+Need set YummyFTP path.
 
 ![configuration1](https://github.com/hellolibo/alfred-open-in-yummy/blob/master/assets/demo_set_variable1.png)
 
