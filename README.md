@@ -11,6 +11,6 @@ An Alfred v3 workflow to open up YummyFTP and connect to a site.
 
 ## Configuration
 
-![configuration1][https://github.com/hellolibo/alfred-open-in-yummy/blob/master/assets/demo_set_variable1]
+![configuration1](https://github.com/hellolibo/alfred-open-in-yummy/blob/master/assets/demo_set_variable1)
 
-![configuration2][https://github.com/hellolibo/alfred-open-in-yummy/blob/master/assets/demo_set_variable2]
+![configuration2](https://github.com/hellolibo/alfred-open-in-yummy/blob/master/assets/demo_set_variable2)
